@@ -4,3 +4,5 @@ A Machine Learning project written with Python in Jupyter Notebook to instruct Z
 Zumi Website: https://www.robolink.com/products/zumi
 
 This project trains Zumi with a `soft toy` and `plastic cup`.
+
+## `zumi-final-code` Jupyter Notebook Details
