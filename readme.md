@@ -55,9 +55,13 @@ This project can be run two different ways to classify objects:
 8. Run the code cell under **Confusion Matrix** to generate a confusion matrix for each model.
 9. Under **Cross-Validation with cross_val_score**, run the cell to implement k-fold cross validation.
 10. The section under **Real-time Decision Making** allows Zumi to react in real-time to a classified object.
-      a. Place Zumi in front of an object (i.e. a soft toy, plastic cup, or any other object you wish to classify).
-      b. Run the first cell to define the `react_to_obstacle` function.
-      c. Run the second cell to define the `classify_obstacle` function - this function will classify the object.
+
+    a. Place Zumi in front of an object (i.e. a soft toy, plastic cup, or any other object you wish to classify).
+
+    b. Run the first cell to define the `react_to_obstacle` function.
+
+    c. Run the second cell to define the `classify_obstacle` function - this function will classify the object.
+    
 11. Run the cell under **Evaluation** to check the accuracy of the k-NN and Logistic Regression models.
 
 ### Data Collection
