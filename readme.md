@@ -4,11 +4,11 @@ A Machine Learning project written with Python in Jupyter Notebook to instruct Z
 **Zumi Website:** https://www.robolink.com/products/zumi
 
 This project trains Zumi with a `soft toy` and `plastic cup`. 
-Download **all** files (including pickled data files) and follow instructions in the Juypter Notebook file (zumi-final-code.ipynb)
+<ins>Download **all** files</ins> (including pickled data files) and follow instructions in the Juypter Notebook file (zumi-final-code.ipynb)
 
 ## `zumi-final-code` Jupyter Notebook Details
 
-### Classifying Objects Using Pickled Data
+### Classifying Objects Using Pickled Data Files
 This project can be run two different ways to classify objects:
 1. Classify obstacles *without* noise
 2. Classify obstacles **with noise**
