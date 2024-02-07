@@ -7,7 +7,7 @@ This project trains Zumi with a `soft toy` and `plastic cup`.
 
 [**Download all files**](https://github.com/sidneyshafer/zumi-project/archive/refs/heads/main.zip) and follow instructions in the Juypter Notebook file (`zumi-final-code.ipynb`)
 
-## `zumi-final-code` Jupyter Notebook Details
+## `zumi-final-code` Jupyter Notebook Details & Instructions
 
 ### Classifying Objects Using Pickled Data Files
 The project can be run two different ways to classify objects:
