@@ -46,7 +46,7 @@ The project can be run two different ways to classify objects:
 ### 2. <ins>Classify obstacles **with noise**</ins>
 1. Under **Data Collection**, run the first and second cells of code.
 2. <ins>DO NOT</ins> run the cells under **Data Collection - *collect data without noise***.
-3. Only run the first cell under **Data Augmentation - *collect data with noise***. <ins>DO NOT</ins> run the second cell.
+3. Only run the first cell (image below) under **Data Augmentation - *collect data with noise***. <ins>DO NOT</ins> run the second cell.
    ![image](https://github.com/sidneyshafer/zumi-project/assets/66838571/a2f01018-c9f4-4316-b0c6-9a3913eb2d09)
 
 4. Under **Storing & Visualizing Data**, run the first cell to visualize the data points.
