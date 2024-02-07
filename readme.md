@@ -65,6 +65,8 @@ The project can be run two different ways to classify objects:
     
 11. Run the cell under **Evaluation** to check the accuracy of the k-NN and Logistic Regression models.
 
+<hr/>
+
 ### Data Collection
 **NOTE: You will need a fully operational Zumi to gather sensor reading data for this section.**
 
