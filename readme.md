@@ -5,7 +5,7 @@ A Machine Learning project written with Python in Jupyter Notebook to instruct Z
 
 This project trains Zumi with a `soft toy` and `plastic cup`. 
 
-<ins>Download **all** files</ins> (including pickled data files) and follow instructions in the Juypter Notebook file (zumi-final-code.ipynb)
+<ins>[Download **all** files](https://github.com/sidneyshafer/zumi-project/archive/refs/heads/main.zip)</ins> (including pickled data files) and follow instructions in the Juypter Notebook file (`zumi-final-code.ipynb`)
 
 ## `zumi-final-code` Jupyter Notebook Details
 
