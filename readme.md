@@ -77,6 +77,7 @@ The project can be run two different ways to collect data points for classifying
 2. Under **Data Collection - *collect data without noise***, run the first cell of code.
 3. <ins>DO NOT</ins> run the *first* cell under **Data Augmentation - *collect data with noise***.
 4. ONLY Run the second cell and follow the instructions:
+
    **NOTE:** Place Zumi in front of an obstacle (either a `soft toy` or `plastic cup`) to collect sensor readings.
    ![image](https://github.com/sidneyshafer/zumi-project/assets/66838571/54f48bc7-97fc-4cbd-82df-bb3c241822ec)
 
@@ -92,8 +93,9 @@ The project can be run two different ways to collect data points for classifying
    ![image](https://github.com/sidneyshafer/zumi-project/assets/66838571/fd999540-7910-43f9-9f8b-ccf70b4d8771)
 
 4. Then, run the second cell and follow the instructions:
+
    **NOTE:** Place Zumi in front of an obstacle (either a `soft toy` or `plastic cup`) to collect sensor readings.
    ![image](https://github.com/sidneyshafer/zumi-project/assets/66838571/54f48bc7-97fc-4cbd-82df-bb3c241822ec)
 
 5. Repeat Step 4 until you have the desired amount of data points.
-6. After Data Collection is complete, execute the rest of the code cells in the notebook (as described in the sections above).
+7. After Data Collection is complete, execute the rest of the code cells in the notebook (as described in the sections above).
